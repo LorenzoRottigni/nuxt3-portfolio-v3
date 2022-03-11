@@ -1,0 +1,7 @@
+{
+  "hello": "Привет, {name}！",
+  "language": "ru",
+  "menu": {
+    "home": "дома"
+  }
+}
